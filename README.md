@@ -7,4 +7,4 @@ Proyecto de análisis de ejercicios de fuerza (dominadas, push-ups y remo) media
 
 -Evaluación con Ground Truth para comparar la precisión del modelo y el seguimiento del movimiento.
 
-El sistema está diseñado para funcionar con tres tipos de ejercicios principales: dominadas, push-ups y remo,
+
