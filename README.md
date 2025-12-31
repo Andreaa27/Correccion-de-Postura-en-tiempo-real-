@@ -1,0 +1,2 @@
+# Correccion de Postura en tiempo real 
+Proyecto de análisis de ejercicios de fuerza (dominadas con dos tipos de agarres,  Walls push-ups ) mediante visión por computadora y aprendizaje automático. El sistema permite entrenar modelos de fases de movimiento, evaluar repeticiones con retroalimentación en tiempo real y comparar resultados con datos de referencia (ground truth). Este proyecto utiliza MediaPipe para la detección de poses y Random Forest Classifier para clasificar las fases de los movimientos durante los ejercicios de fuerza del tronco superior.
